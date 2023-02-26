@@ -3,11 +3,11 @@
   <title>Spirit&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.spiritfr.eu.org/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.spiritfr.eu.org/"/>
   <updated>2023-02-17T09:45:05.829Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.spiritfr.eu.org/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>The Hard Time</title>
-    <link href="http://example.com/2023/02/17/The-Hard-Time/"/>
-    <id>http://example.com/2023/02/17/The-Hard-Time/</id>
+    <link href="https://www.spiritfr.eu.org/2023/02/17/The-Hard-Time/"/>
+    <id>https://www.spiritfr.eu.org/2023/02/17/The-Hard-Time/</id>
     <published>2023-02-17T08:45:36.000Z</published>
     <updated>2023-02-17T09:45:05.829Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>The First Blog</title>
-    <link href="http://example.com/2023/02/12/The-First-Blog/"/>
-    <id>http://example.com/2023/02/12/The-First-Blog/</id>
+    <link href="https://www.spiritfr.eu.org/2023/02/12/The-First-Blog/"/>
+    <id>https://www.spiritfr.eu.org/2023/02/12/The-First-Blog/</id>
     <published>2023-02-12T00:00:35.000Z</published>
     <updated>2023-02-12T00:47:52.087Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/01/29/hello-world/"/>
-    <id>http://example.com/2023/01/29/hello-world/</id>
+    <link href="https://www.spiritfr.eu.org/2023/01/29/hello-world/"/>
+    <id>https://www.spiritfr.eu.org/2023/01/29/hello-world/</id>
     <published>2023-01-29T13:07:18.293Z</published>
     <updated>2023-01-29T13:07:18.293Z</updated>
     
