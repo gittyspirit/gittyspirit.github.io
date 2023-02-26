@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Spirit&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-02-17T09:45:05.829Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Hard Time</title>
+    <link href="http://example.com/2023/02/17/The-Hard-Time/"/>
+    <id>http://example.com/2023/02/17/The-Hard-Time/</id>
+    <published>2023-02-17T08:45:36.000Z</published>
+    <updated>2023-02-17T09:45:05.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The First Blog</title>
+    <link href="http://example.com/2023/02/12/The-First-Blog/"/>
+    <id>http://example.com/2023/02/12/The-First-Blog/</id>
+    <published>2023-02-12T00:00:35.000Z</published>
+    <updated>2023-02-12T00:47:52.087Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/01/29/hello-world/"/>
+    <id>http://example.com/2023/01/29/hello-world/</id>
+    <published>2023-01-29T13:07:18.293Z</published>
+    <updated>2023-01-29T13:07:18.293Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
