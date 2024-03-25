@@ -1,0 +1,73 @@
+
+#box{
+    text-align: center;
+    margin: 40px 20px;
+}
+#btnBox{
+    margin:20px;
+}
+button{
+    cursor: pointer;
+}
+#clockBox{
+    margin:20px;
+}
+#clock{
+    display: inline-block;
+    width:40px;
+    text-align: left;
+}
+.l{
+    font-size: 0;
+}
+.l>span{
+    
+    border: 1px solid #bec6d4;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    LINE-height: 40px;
+    display: inline-block;
+}
+.l>span>input{
+    FONT-SIZE: 25px;
+    border: none;
+    background-color: transparent;
+    WIDTH: 46px;
+    HEIGHT: 46px;
+    LINE-HEIGHT: 46px;
+    TEXT-ALIGN: center;
+    margin: 0px;
+    FONT-FAMILY: Verdana;
+}
+.l>span>input:hover{
+    cursor: pointer;
+    /* background-color:green; */
+}
+.l0>span, .l3>span, .l6>span{
+    border-top:2px solid #344861
+}
+.l8>span{
+    border-bottom:2px solid #344861
+}
+.l>span:first-child{
+    border-left: 2px solid #344861
+}
+.l>span:last-child{
+    border-right: 2px solid #344861
+}
+.l>span:nth-child(3), .l>span:nth-child(6){
+    border-right: 2px solid #344861
+}
+
+#msg{
+    font-size: 30px;
+    font-weight: bold;
+}
+.error{
+    border-color: red!important;
+}
+#instruction p{
+    margin:20px 60px;
+    
+}
